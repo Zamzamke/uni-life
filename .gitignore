@@ -1,0 +1,57 @@
+.env
+*.pyc
+__pycache__/
+*.sqlite3
+db.sqlite3
+venv/
+*.log
+*.pot
+*.pyc
+local_settings.py
+mediafiles/
+staticfiles/
+
+# Environments
+.venv
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Database
+*.db
+
+# Coverage
+htmlcov/
+.coverage
+.coverage.*
+.coverage
+*.cover
+.hypothesis/
+
+# Jupyter
+.ipynb_checkpoints
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# Temporary files
+*.tmp
+*.temp
